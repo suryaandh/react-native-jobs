@@ -25,7 +25,7 @@ const Home = () => {
           headerRight: () => (
             <ScreenHeaderBtn iconUrl={images.profile} dimension="100%" />
           ),
-          // headerTitle: "",
+          headerTitle: "",
           headerTitleAlign: "center",
         }}
       />
